@@ -112,3 +112,9 @@ Los límites y requisitos de Google Play cambian con el tiempo (por ejemplo, el 
 ## Licencia
 
 [MIT](LICENSE) © 2026 Dezen
+
+## Autor
+
+Hecho por **Dezen** · [GitHub](https://github.com/dezenbit) · [X](https://x.com/Dezenbitw) · [Instagram](https://www.instagram.com/dezenbit2) · dezen.dev@gmail.com
+
+☕ ¿Te gusta este proyecto? [Invítame un café en Ko-fi](https://ko-fi.com/dezenbitw)
