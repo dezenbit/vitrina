@@ -77,9 +77,6 @@ python3 -m http.server 8080   # o abre index.html directamente
 
 No hay dependencias que instalar. JSZip y las tipografías se cargan desde CDN.
 
-### Publicar en GitHub Pages
-Incluye `.github/workflows/pages.yml`. En **Settings → Pages → Build and deployment** elige **GitHub Actions**; cada push a `main` publica el sitio.
-
 ## Estructura
 
 ```
